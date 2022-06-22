@@ -1,0 +1,13 @@
+package com.seetaram.poc.cardetailsapi;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CaradetailsapiApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(CaradetailsapiApplication.class, args);
+	}
+
+}
